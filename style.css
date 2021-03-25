@@ -112,11 +112,10 @@ input[type="text"]:focus {
     width: 318px;
 }
 
-p > button:hover {
+.edit:hover{
     color: #0FC57C;
 }
 
-/* Task list */
 li {
     overflow: hidden;
     padding: 20px 0;
